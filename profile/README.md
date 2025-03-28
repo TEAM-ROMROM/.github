@@ -34,15 +34,15 @@
 
 <br/><br/>
 ## 🧑‍🤝‍🧑 팀원 소개
-| 🎨 역할  | 👩‍💻 팀원 이름 | GitHub 링크 |
+|  역할  | 이름 | GitHub 링크 |
 |:-------:|:--------------:|:-----------:|
-| PM, 기획 | [조휘민](https://github.com/wheemin1) | [GitHub](https://github.com/wheemin1) |
-| Front-End | [이서현](https://github.com/SeoHyun1024) | [GitHub](https://github.com/SeoHyun1024) |
-| Front-End | [서새찬](https://github.com/Cassiiopeia) | [GitHub](https://github.com/Cassiiopeia) |
-| Back-End  | [백지훈](https://github.com/Chuseok22) | [GitHub](https://github.com/Chuseok22) |
-| Back-End  | [위승재](https://github.com/discipline24) | [GitHub](https://github.com/discipline24) |
-| Back-End  | [김나영](https://github.com/nayoung04) | [GitHub](https://github.com/nayoung04) |
-| Design | [이예람](https://github.com/yeramyyi) | [GitHub](https://github.com/yeramyyi) |
+| **PM, 기획** | 조휘민 | [GitHub](https://github.com/wheemin1) |
+| **Front-End** | 이서현| [GitHub](https://github.com/SeoHyun1024) |
+| **Front-End** | 서새찬 | [GitHub](https://github.com/Cassiiopeia) |
+| **Back-End**  | 백지훈 | [GitHub](https://github.com/Chuseok22) |
+| **Back-End**  | 위승재| [GitHub](https://github.com/discipline24) |
+| **Back-End**  | 김나영 | [GitHub](https://github.com/nayoung04) |
+| **Design** | 이예람 | [GitHub](https://github.com/yeramyyi) |
 
 <BR/><BR/>
 ## 🗂️ Architecture
