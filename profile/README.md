@@ -62,9 +62,6 @@
 
 
 
-![image](https://github.com/user-attachments/assets/1030a51b-484a-4eaa-99e7-65abf561d192)
-
-
 <BR/><BR/>
 ## 🗂️ Architecture
 예정
