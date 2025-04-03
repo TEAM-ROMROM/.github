@@ -37,30 +37,18 @@
 
 <br/><br/>
 ## 🧑‍🤝‍🧑 팀원 소개
-|  역할  | 이름 | GitHub 링크 |
-|:-------:|:--------------:|:-----------:|
-| **PM, 기획** | 조휘민 | [GitHub](https://github.com/wheemin1) |
-| **Front-End** | 이서현| [GitHub](https://github.com/SeoHyun1024) |
-| **Front-End** | 서새찬 | [GitHub](https://github.com/Cassiiopeia) |
-| **Back-End**  | 백지훈 | [GitHub](https://github.com/Chuseok22) |
-| **Back-End**  | 위승재| [GitHub](https://github.com/discipline24) |
-| **Back-End**  | 김나영 | [GitHub](https://github.com/nayoung04) |
-| **Design** | 이예람 | [GitHub](https://github.com/yeramyyi) |
 
-
-<BR/><BR/>
-
-| <img src="https://github.com/user-attachments/assets/7c89c46a-a635-4be5-8f4b-3ec5c63d3fc1" width="200" height="200"> | <img src="https://github.com/user-attachments/assets/1030a51b-484a-4eaa-99e7-65abf561d192" width="200" height="200"> | <img src =https://github.com/user-attachments/assets/a9f27bca-de20-412a-b678-68128ea08e75 width="200" height="200"> | <img src =https://github.com/user-attachments/assets/54fbdaaf-6b88-4ad1-ab76-d7019688dff8 width="200" height="200"> |
+| <img src="https://github.com/user-attachments/assets/7c89c46a-a635-4be5-8f4b-3ec5c63d3fc1" width="200" height="200"> | <img src="https://github.com/user-attachments/assets/1030a51b-484a-4eaa-99e7-65abf561d192" width="200" height="200"> | <img src="https://github.com/user-attachments/assets/a9f27bca-de20-412a-b678-68128ea08e75" width="200" height="200"> | <img src="https://github.com/user-attachments/assets/54fbdaaf-6b88-4ad1-ab76-d7019688dff8" width="200" height="200"> |
 |:----------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------:|
-| **PM, 기획**<br/>[조휘민](https://github.com/wheemin1) | **디자인**<br/>[이예람](https://github.com/yeramyyi) | **Front-End**<br/>[이서현](https://github.com/SeoHyun1024) | **Front-End**<br/>[서새찬](https://github.com/dongjji) |
+| **PM, 기획** | **Design** | **Front-End** | **Front-End** |
+| [조휘민](https://github.com/wheemin1) | [이예람](https://github.com/yeramyyi) | [이서현](https://github.com/SeoHyun1024) | [서새찬](https://github.com/Cassiiopeia) |
 
 <br/>
 
-| <img src="https://user-images.githubusercontent.com/67897318/209684716-5baf27b0-c344-4a99-9c98-fc5e9089829d.png" width="150" height="150"> | <img src="https://github.com/user-attachments/assets/dc83820e-026f-4c78-96a4-5265c22b1904" width="200" height="200"> | <img src="https://github.com/user-attachments/assets/a9f27bca-de20-412a-b678-68128ea08e75" width="150" height="150"> |
+| <img src="https://github.com/user-attachments/assets/46eca0b6-82bc-410c-9b9e-6c2b66393c35" width="200" height="200"> | <img src="https://github.com/user-attachments/assets/dc83820e-026f-4c78-96a4-5265c22b1904" width="200" height="200"> | <img src="https://github.com/user-attachments/assets/910de567-1e26-46f6-b7de-eaeefc166435" width="200" height="200"> |
 |:-----------------------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------:|
-| **Back-End**<br/>[백지훈](https://github.com/phc09188) | **Back-End**<br/>[위승재](https://github.com/SoA-Lee) | **Back-End**<br/>[김나영](https://github.com/nayoung04) |
-
-
+| **Back-End** | **Back-End** | **Back-End** |
+| [백지훈](https://github.com/Chuseok22) | [위승재](https://github.com/discipline24) | [김나영](https://github.com/nayoung04) |
 
 
 
