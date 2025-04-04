@@ -32,8 +32,6 @@
 <BR/>
 
 ## Demo
-[image](https://github.com/user-attachments/assets/d25e6b41-935f-47fc-9034-0415cf84eebc)
-
 
 <br/><br/>
 ## 🧑‍🤝‍🧑 팀원 소개
@@ -45,7 +43,7 @@
 
 <br/>
 
-| <img src="https://github.com/user-attachments/assets/46eca0b6-82bc-410c-9b9e-6c2b66393c35" width="200" height="200"> | <img src="https://github.com/user-attachments/assets/dc83820e-026f-4c78-96a4-5265c22b1904" width="200" height="200"> | <img src="https://github.com/user-attachments/assets/910de567-1e26-46f6-b7de-eaeefc166435" width="200" height="200"> |
+| <img src="https://github.com/user-attachments/assets/72314bae-6814-450c-a88f-0dfeae9fc6e5" width="200" height="200"> | <img src="https://github.com/user-attachments/assets/dc83820e-026f-4c78-96a4-5265c22b1904" width="200" height="200"> | <img src="https://github.com/user-attachments/assets/910de567-1e26-46f6-b7de-eaeefc166435" width="200" height="200"> |
 |:-----------------------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------:|
 | **Back-End** | **Back-End** | **Back-End** |
 | [백지훈](https://github.com/Chuseok22) | [위승재](https://github.com/discipline24) | [김나영](https://github.com/nayoung04) |
