@@ -54,11 +54,7 @@
 
 <BR/><BR/>
 ## 🗂️ Architecture
-예정
-
-<BR/><BR/>
-## 💾 ERD 구조
-예정
+![image](https://github.com/user-attachments/assets/25993d32-1871-4e51-a794-cd5d494d879d)
 
 <BR/><BR/>
 
