@@ -2,6 +2,10 @@
   <img src="https://github.com/user-attachments/assets/ab0702fb-ec00-4f17-b8c8-fdc136b416cf" alt="롬롬 깃헙 표지" width="100%">
 </p>
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e60f370f-c3cd-42aa-96b9-8723ac5ff222" alt="롬롬 깃헙 표지" width="100%">
+</p>
+
 
 
 <br/>
