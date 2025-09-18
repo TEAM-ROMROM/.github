@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/b6180323-7557-4c2a-ac3d-bbad761a01ed" alt="롬롬 깃헙 표지" width="100%">
+  <img src="https://github.com/user-attachments/assets/ab0702fb-ec00-4f17-b8c8-fdc136b416cf" alt="롬롬 깃헙 표지" width="100%">
 </p>
+
 
 
 <br/>
