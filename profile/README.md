@@ -1,6 +1,12 @@
-# ®️ROMROM®️
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b6180323-7557-4c2a-ac3d-bbad761a01ed" alt="롬롬 깃헙 표지" width="100%">
+</p>
+
 
 <br/>
+
+
+
 
 ## 🙂 프로젝트 소개
 
