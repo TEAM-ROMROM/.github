@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/4db63d53-9eb6-430c-a390-21fe4a668bb2" alt="Frame 568" width="100%">
+  <img src="https://github.com/user-attachments/assets/1a5e9c6d-d47c-45c8-b2e3-10056566c5e2" alt="Frame 568" width="100%">
 </p>
-<br/>
+<br>
 
 
 ## 🙂 프로젝트 소개
