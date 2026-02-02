@@ -38,7 +38,7 @@
 <br/><br/>
 ## 🧑‍🤝‍🧑 팀원 소개
 
-| <img src="https://github.com/user-attachments/assets/7c89c46a-a635-4be5-8f4b-3ec5c63d3fc1" width="200" height="200"> | <img src="https://github.com/user-attachments/assets/1030a51b-484a-4eaa-99e7-65abf561d192" width="200" height="200"> | <img src="https://github.com/user-attachments/assets/a9f27bca-de20-412a-b678-68128ea08e75" width="200" height="200"> | <img src="https://github.com/user-attachments/assets/54fbdaaf-6b88-4ad1-ab76-d7019688dff8" width="200" height="200"> |
+| <img src="https://github.com/user-attachments/assets/7c89c46a-a635-4be5-8f4b-3ec5c63d3fc1" width="200" height="200"> | <img src="https://github.com/user-attachments/assets/1030a51b-484a-4eaa-99e7-65abf561d192" width="200" height="200"> | <img src="https://github.com/user-attachments/assets/a9f27bca-de20-412a-b678-68128ea08e75" width="200" height="200"> |t="200"> |
 |:----------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------:|
 | **PM, 기획** | **Design** | **Front-End** | **Front-End** |
 | [조휘민](https://github.com/wheemin1) | [이예람](https://github.com/yeramyyi) | [이서현](https://github.com/SeoHyun1024) | [서새찬](https://github.com/Cassiiopeia) |
